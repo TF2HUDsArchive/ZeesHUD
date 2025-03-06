@@ -1,7 +1,7 @@
 # February 2025 Foreword
 This is a HUD I made in 2020. I originally wanted to make this HUD as a way to get attention on my videos, but due to circumstances that has lead to me being at the receiving end of abuse and that abuse profoundly screwing me up, I have very bad memories of this HUD. **I wish that you respect my desires for this HUD not to be used or shared**. Obviously I can't stop you from using it, but I would like not to see this HUD being used. I'd like to be able watch TF2 streams without seeing my HUD and being reminded of the personal hell I went through.
 
-I'm no longer playing TF2 or am much online anymore, so this HUD is abandoned indefinitely. If you use this HUD as a base to make it your own, or fork your own edits, I encourage you to do so, no credit required. I have bad memories tied to this project and I wish I never made it because of them, but I can understand ZeesHUD seems to have inspired people to create better HUDs, so I'm leaving it here for people to fork it and create something better.
+I'm no longer playing TF2 or am much online anymore, so this HUD is abandoned indefinitely. If you want to use this HUD as a base to make it your own, or fork your own edits, I encourage you to do so, no credit required. I have bad memories tied to this project and I wish I never made it because of them, but I can understand ZeesHUD seems to have inspired people to create better HUDs, so I'm leaving it here for people to fork it and create something better.
 
 # ZeesHUD
 The (in)famous TF2 HUD that looks like Persona 5's UI.
