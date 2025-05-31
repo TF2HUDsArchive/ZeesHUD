@@ -3,7 +3,7 @@ Scheme
 	Fonts
 	{
 		// CUSTOM
-		
+
 		// CIKANDEI
 		"CIKANDEI_56"
 		{
@@ -55,7 +55,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		// ZEESHUD NUMBERS
 		"ZH_56"
 		{
@@ -67,7 +67,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"ZH_51"
 		{
 			"1"
@@ -198,9 +198,9 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		//OUTLINE
-		
+
 		"ZHO_56"
 		{
 			"1"
@@ -261,7 +261,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		// ROAD RAGE (addon)
 		"ROADRAGE_56"
 		{
@@ -303,7 +303,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		// GAMERIA
 		"GAMERIA_56"
 		{
@@ -405,8 +405,8 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
-		
+
+
 		// FUTURA_BOLD
 		"FUTURA_BOLD_56"
 		{
@@ -518,7 +518,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		//RAYS HUD (delete this shit when done)
 		"Cerbetica56"
 		{
@@ -641,7 +641,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 
 		// DEFAULT
 		"Default"
@@ -649,15 +649,57 @@ Scheme
 			"1"
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"10"
-				"additive"		"0"
-				"antialias"		"1"
+				"tall"			"12"
+				"weight"		"900"
+				"range"			"0x0000 0x017F"
+				"yres"			"480 599"
 			}
 			"2"
 			{
 				"name"			"Futura PT Bold"
+				"tall"			"13"	[$WIN32]
+				"weight"		"900"
+				"range"			"0x0000 0x017F"
+				"yres"			"600 767"
+			}
+			"3"
+			{
+				"name"			"Futura PT Bold"
+				"tall"			"14"
+				"weight"		"900"
+				"range"			"0x0000 0x017F"
+				"yres"			"768 1023"
+				"antialias"		"1"
+			}
+			"4"
+			{
+				"name"			"Futura PT Bold"
+				"tall"			"20"
+				"weight"		"900"
+				"range"			"0x0000 0x017F"
+				"yres"			"1024 1199"
+				"antialias"		"1"
+			}
+			"5" // Misyl: Proportional
+			{
+				"name"			"Futura PT Bold"
+				"tall"			"9"
+				"weight"		"900"
+				"range"			"0x0000 0x017F"
+				"antialias"		"1"
+			}
+			"6"
+			{
+				"name"			"Futura PT Bold"
 				"tall"			"12"
-				"range"			"0x0000 0x00FF"
+				"range" 		"0x0000 0x00FF"
+				"weight"		"900"
+			}
+			"7"
+			{
+				"name"			"Arial"
+				"tall"			"12"
+				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
 		}
@@ -726,13 +768,12 @@ Scheme
 				"yres"			"1024 1199"
 				"antialias"		"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"22"
+				"tall"			"9"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
@@ -779,13 +820,12 @@ Scheme
 				"yres"			"1024 1199"
 				"antialias"		"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"16"
+				"tall"			"9"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 		}
@@ -825,13 +865,12 @@ Scheme
 				"yres"			"1024 1199"
 				"antialias"		"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"30"
+				"tall"			"18"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
@@ -887,7 +926,7 @@ Scheme
 			"2"
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"13"
+				"tall"			"13"	[$WIN32]
 				"weight"		"700"
 				"yres"			"600 767"
 			}
@@ -905,12 +944,12 @@ Scheme
 				"weight"		"700"
 				"yres"			"1024 1199"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"24"
+				"tall"			"12"
 				"weight"		"700"
-				"yres"			"1200 10000"
+				"antialias"		"1"
 			}
 		}
 
@@ -922,7 +961,7 @@ Scheme
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias"		"1"
+				"antialias" 	"1"
 				"yres"			"480 599"
 			}
 			"2"
@@ -931,7 +970,7 @@ Scheme
 				"tall"			"32"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias"		"1"
+				"antialias" 	"1"
 				"yres"			"600 767"
 			}
 			"3"
@@ -940,7 +979,7 @@ Scheme
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias"		"1"
+				"antialias" 	"1"
 				"yres"			"768 1023"
 			}
 			"4"
@@ -955,11 +994,10 @@ Scheme
 			"5"
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"52"
+				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
-				"yres"			"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
@@ -1033,7 +1071,16 @@ Scheme
 			"1"
 			{
 				"name"			"Futura PT Bold"
-				"tall"			"20"
+				"tall"			"24"
+				"weight"		"500"
+				"yres"			"1 1199"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+			"2" // Misyl: Proportional
+			{
+				"name"			"Futura PT Bold"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
