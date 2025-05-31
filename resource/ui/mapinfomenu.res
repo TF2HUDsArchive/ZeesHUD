@@ -1,1 +1,0 @@
-#base "..\..\_zeeshud_base\ingame_popups\motd_map_info.res"

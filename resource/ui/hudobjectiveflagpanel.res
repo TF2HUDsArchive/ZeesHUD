@@ -1,1 +1,0 @@
-#base "..\..\_zeeshud_base\ingame_objectives\ctf_main.res"

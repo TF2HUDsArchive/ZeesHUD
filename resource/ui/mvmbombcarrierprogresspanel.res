@@ -1,1 +1,0 @@
-#base "../../_zeeshud_base/mvm/bomb_carrier.res"

@@ -1,1 +1,0 @@
-#base "..\..\_zeeshud_base\menus\loadout_item_options.res"
